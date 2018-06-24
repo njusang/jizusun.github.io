@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "作业来自：金星老师的《内容社区：产品选型与运营》"
-categories: readings
+categories: blogs
 ---
 作业来自：金星老师的《内容社区：产品选型与运营》
 
